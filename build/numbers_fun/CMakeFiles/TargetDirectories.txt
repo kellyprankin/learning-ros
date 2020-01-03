@@ -1,0 +1,11 @@
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/build/numbers_fun/CMakeFiles/install/strip.dir
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/build/numbers_fun/CMakeFiles/install.dir
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/build/numbers_fun/CMakeFiles/list_install_components.dir
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/build/numbers_fun/CMakeFiles/rebuild_cache.dir
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/build/numbers_fun/CMakeFiles/listener.dir
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/build/numbers_fun/CMakeFiles/uninstall.dir
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/build/numbers_fun/CMakeFiles/numbers_fun_uninstall.dir
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/build/numbers_fun/CMakeFiles/talker.dir
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/build/numbers_fun/CMakeFiles/install/local.dir
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/build/numbers_fun/CMakeFiles/test.dir
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/build/numbers_fun/CMakeFiles/edit_cache.dir

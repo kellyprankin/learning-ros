@@ -1,0 +1,4 @@
+source;share/numbers_fun/local_setup.bash
+source;share/numbers_fun/local_setup.dsv
+source;share/numbers_fun/local_setup.sh
+source;share/numbers_fun/local_setup.zsh

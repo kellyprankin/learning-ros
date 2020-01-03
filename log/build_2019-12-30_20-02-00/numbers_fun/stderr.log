@@ -1,0 +1,36 @@
+[1.162s] In file included from [01m[K/opt/ros/eloquent/include/rclcpp/client.hpp:39:0[m[K,
+[1.165s]                  from [01m[K/opt/ros/eloquent/include/rclcpp/callback_group.hpp:23[m[K,
+[1.167s]                  from [01m[K/opt/ros/eloquent/include/rclcpp/any_executable.hpp:20[m[K,
+[1.167s]                  from [01m[K/opt/ros/eloquent/include/rclcpp/memory_strategy.hpp:24[m[K,
+[1.167s]                  from [01m[K/opt/ros/eloquent/include/rclcpp/memory_strategies.hpp:18[m[K,
+[1.167s]                  from [01m[K/opt/ros/eloquent/include/rclcpp/executor.hpp:33[m[K,
+[1.167s]                  from [01m[K/opt/ros/eloquent/include/rclcpp/executors/multi_threaded_executor.hpp:25[m[K,
+[1.167s]                  from [01m[K/opt/ros/eloquent/include/rclcpp/executors.hpp:21[m[K,
+[1.167s]                  from [01m[K/opt/ros/eloquent/include/rclcpp/rclcpp.hpp:145[m[K,
+[1.168s]                  from [01m[K/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/src/numbers_fun/src/numbers_fun_publisher.cpp:4[m[K:
+[1.168s] [01m[K/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/src/numbers_fun/src/numbers_fun_publisher.cpp:[m[K In member function ‘[01m[Kvoid NumbersFunPublisher::timer_callback()[m[K’:
+[1.168s] [01m[K/opt/ros/eloquent/include/rcutils/logging_macros.h:72:75:[m[K [01;31m[Kerror: [m[Kinvalid use of non-static member function ‘[01m[Kconst _CharT* std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::c_str() const [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>][m[K’
+[1.168s]        rcutils_log(&__rcutils_logging_location, severity, name, __VA_ARGS__[01;31m[K)[m[K; \
+[1.168s]                                                                            [01;31m[K^[m[K
+[1.171s] [01m[K/opt/ros/eloquent/include/rcutils/logging_macros.h:500:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KRCUTILS_LOG_COND_NAMED[m[K’
+[1.171s]    [01;36m[KRCUTILS_LOG_COND_NAMED[m[K( \
+[1.171s]    [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[1.171s] [01m[K/opt/ros/eloquent/include/rclcpp/logging.hpp:541:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KRCUTILS_LOG_INFO_NAMED[m[K’
+[1.171s]      [01;36m[KRCUTILS_LOG_INFO_NAMED[m[K( \
+[1.171s]      [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[1.171s] [01m[K/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/src/numbers_fun/src/numbers_fun_publisher.cpp:26:13:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KRCLCPP_INFO[m[K’
+[1.172s]              [01;36m[KRCLCPP_INFO[m[K(this->get_logger(), "Publishing: %s", message.data.c_str);
+[1.172s]              [01;36m[K^~~~~~~~~~~[m[K
+[1.172s] In file included from [01m[K/usr/include/c++/7/string:52:0[m[K,
+[1.172s]                  from [01m[K/usr/include/c++/7/stdexcept:39[m[K,
+[1.172s]                  from [01m[K/usr/include/c++/7/array:39[m[K,
+[1.172s]                  from [01m[K/usr/include/c++/7/tuple:39[m[K,
+[1.173s]                  from [01m[K/usr/include/c++/7/bits/unique_ptr.h:37[m[K,
+[1.173s]                  from [01m[K/usr/include/c++/7/memory:80[m[K,
+[1.173s]                  from [01m[K/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/src/numbers_fun/src/numbers_fun_publisher.cpp:2[m[K:
+[1.173s] [01m[K/usr/include/c++/7/bits/basic_string.h:2280:7:[m[K [01;36m[Knote: [m[Kdeclared here
+[1.173s]        [01;36m[Kc_str[m[K() const _GLIBCXX_NOEXCEPT
+[1.173s]        [01;36m[K^~~~~[m[K
+[1.790s] make[2]: *** [CMakeFiles/talker.dir/src/numbers_fun_publisher.cpp.o] Error 1
+[1.793s] make[1]: *** [CMakeFiles/talker.dir/all] Error 2
+[1.793s] make: *** [all] Error 2

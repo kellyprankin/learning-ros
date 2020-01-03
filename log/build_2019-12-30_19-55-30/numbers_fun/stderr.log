@@ -1,0 +1,11 @@
+[1.726s] [01m[K/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/src/numbers_fun/src/numbers_fun_subscriber.cpp:[m[K In constructor ‘[01m[KNumberFunSubscriber::NumberFunSubscriber()[m[K’:
+[1.731s] [01m[K/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/src/numbers_fun/src/numbers_fun_subscriber.cpp:17:9:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+[1.731s]          [01;31m[K}[m[K
+[1.732s]          [01;31m[K^[m[K
+[1.737s] [01m[K/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/src/numbers_fun/src/numbers_fun_subscriber.cpp:[m[K At global scope:
+[1.738s] [01m[K/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/src/numbers_fun/src/numbers_fun_subscriber.cpp:28:5:[m[K [01;35m[Kwarning: [m[Kfirst argument of ‘[01m[Kint main(char, char**)[m[K’ should be ‘[01m[Kint[m[K’ [[01;35m[K-Wmain[m[K]
+[1.739s]  int [01;35m[Kmain[m[K(char argc, char * argv[])
+[1.741s]      [01;35m[K^~~~[m[K
+[2.553s] make[2]: *** [CMakeFiles/listener.dir/src/numbers_fun_subscriber.cpp.o] Error 1
+[2.553s] make[1]: *** [CMakeFiles/listener.dir/all] Error 2
+[2.553s] make: *** [all] Error 2

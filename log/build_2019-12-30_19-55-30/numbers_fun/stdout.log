@@ -1,0 +1,15 @@
+[0.046s] -- Found ament_cmake: 0.8.2 (/opt/ros/eloquent/share/ament_cmake/cmake)
+[0.077s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.269s] -- Found rclcpp: 0.8.3 (/opt/ros/eloquent/share/rclcpp/cmake)
+[0.291s] -- Found rosidl_adapter: 0.8.1 (/opt/ros/eloquent/share/rosidl_adapter/cmake)
+[0.325s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/ros/eloquent/share/rmw_implementation_cmake/cmake)
+[0.329s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.358s] -- Found std_msgs: 0.8.1 (/opt/ros/eloquent/share/std_msgs/cmake)
+[0.468s] -- Configuring done
+[0.510s] -- Generating done
+[0.512s] -- Build files have been written to: /home/bazookatooth/ROS2_WORK/learning_how_to_workspace/build/numbers_fun
+[0.605s] [35m[1mScanning dependencies of target listener[0m
+[0.658s] [ 25%] [32mBuilding CXX object CMakeFiles/listener.dir/src/numbers_fun_subscriber.cpp.o[0m
+[2.544s] CMakeFiles/listener.dir/build.make:62: recipe for target 'CMakeFiles/listener.dir/src/numbers_fun_subscriber.cpp.o' failed
+[2.553s] CMakeFiles/Makefile2:67: recipe for target 'CMakeFiles/listener.dir/all' failed
+[2.553s] Makefile:140: recipe for target 'all' failed

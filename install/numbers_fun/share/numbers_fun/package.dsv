@@ -1,0 +1,8 @@
+source;share/numbers_fun/hook/cmake_prefix_path.ps1
+source;share/numbers_fun/hook/cmake_prefix_path.dsv
+source;share/numbers_fun/hook/cmake_prefix_path.sh
+source;share/numbers_fun/local_setup.bash
+source;share/numbers_fun/local_setup.dsv
+source;share/numbers_fun/local_setup.ps1
+source;share/numbers_fun/local_setup.sh
+source;share/numbers_fun/local_setup.zsh

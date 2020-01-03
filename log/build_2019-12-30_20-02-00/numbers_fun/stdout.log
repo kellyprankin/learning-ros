@@ -1,0 +1,5 @@
+[0.095s] [ 50%] Built target listener
+[0.127s] [ 75%] [32mBuilding CXX object CMakeFiles/talker.dir/src/numbers_fun_publisher.cpp.o[0m
+[1.785s] CMakeFiles/talker.dir/build.make:62: recipe for target 'CMakeFiles/talker.dir/src/numbers_fun_publisher.cpp.o' failed
+[1.793s] CMakeFiles/Makefile2:168: recipe for target 'CMakeFiles/talker.dir/all' failed
+[1.794s] Makefile:140: recipe for target 'all' failed

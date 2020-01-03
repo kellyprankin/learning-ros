@@ -1,0 +1,48 @@
+[0.045s] Invoking command in '/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/build/numbers_fun': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bazookatooth/ROS2_WORK/example_ros2_workspace/install/examples_rclpy_minimal_subscriber:/home/bazookatooth/ROS2_WORK/example_ros2_workspace/install/examples_rclpy_minimal_service:/home/bazookatooth/ROS2_WORK/example_ros2_workspace/install/examples_rclpy_minimal_publisher:/home/bazookatooth/ROS2_WORK/example_ros2_workspace/install/examples_rclpy_minimal_client:/home/bazookatooth/ROS2_WORK/example_ros2_workspace/install/examples_rclpy_minimal_action_server:/home/bazookatooth/ROS2_WORK/example_ros2_workspace/install/examples_rclpy_minimal_action_client:/home/bazookatooth/ROS2_WORK/example_ros2_workspace/install/examples_rclpy_executors:/opt/ros/eloquent /usr/bin/cmake /home/bazookatooth/ROS2_WORK/learning_how_to_workspace/src/numbers_fun -DCMAKE_INSTALL_PREFIX=/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/install/numbers_fun
+[0.255s] -- The C compiler identification is GNU 7.4.0
+[0.355s] -- The CXX compiler identification is GNU 7.4.0
+[0.364s] -- Check for working C compiler: /usr/bin/cc
+[0.435s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.436s] -- Detecting C compiler ABI info
+[0.497s] -- Detecting C compiler ABI info - done
+[0.502s] -- Detecting C compile features
+[0.687s] -- Detecting C compile features - done
+[0.691s] -- Check for working CXX compiler: /usr/bin/c++
+[0.761s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.762s] -- Detecting CXX compiler ABI info
+[0.833s] -- Detecting CXX compiler ABI info - done
+[0.837s] -- Detecting CXX compile features
+[1.133s] -- Detecting CXX compile features - done
+[1.150s] -- Found ament_cmake: 0.8.2 (/opt/ros/eloquent/share/ament_cmake/cmake)
+[1.192s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[1.192s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.415s] -- Found rclcpp: 0.8.3 (/opt/ros/eloquent/share/rclcpp/cmake)
+[1.466s] -- Found rosidl_adapter: 0.8.1 (/opt/ros/eloquent/share/rosidl_adapter/cmake)
+[1.534s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/ros/eloquent/share/rmw_implementation_cmake/cmake)
+[1.539s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.542s] -- Looking for pthread.h
+[1.604s] -- Looking for pthread.h - found
+[1.605s] -- Looking for pthread_create
+[1.670s] -- Looking for pthread_create - not found
+[1.671s] -- Looking for pthread_create in pthreads
+[1.724s] -- Looking for pthread_create in pthreads - not found
+[1.725s] -- Looking for pthread_create in pthread
+[1.786s] -- Looking for pthread_create in pthread - found
+[1.788s] -- Found Threads: TRUE  
+[1.853s] -- Found std_msgs: 0.8.1 (/opt/ros/eloquent/share/std_msgs/cmake)
+[1.860s] CMake Error at CMakeLists.txt:19 (add_executable):
+[1.861s]   The target name "talker," is reserved or not valid for certain CMake
+[1.861s]   features, such as generator expressions, and may result in undefined
+[1.861s]   behavior.
+[1.861s] 
+[1.861s] 
+[1.861s] CMake Error at /opt/ros/eloquent/share/ament_cmake_target_dependencies/cmake/ament_target_dependencies.cmake:35 (message):
+[1.861s]   ament_target_dependencies() the first argument must be a valid target name
+[1.862s] Call Stack (most recent call first):
+[1.862s]   CMakeLists.txt:20 (ament_target_dependencies)
+[1.862s] 
+[1.862s] 
+[1.863s] -- Configuring incomplete, errors occurred!
+[1.863s] See also "/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/build/numbers_fun/CMakeFiles/CMakeOutput.log".
+[1.863s] See also "/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/build/numbers_fun/CMakeFiles/CMakeError.log".
+[1.866s] Invoked command in '/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/build/numbers_fun' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bazookatooth/ROS2_WORK/example_ros2_workspace/install/examples_rclpy_minimal_subscriber:/home/bazookatooth/ROS2_WORK/example_ros2_workspace/install/examples_rclpy_minimal_service:/home/bazookatooth/ROS2_WORK/example_ros2_workspace/install/examples_rclpy_minimal_publisher:/home/bazookatooth/ROS2_WORK/example_ros2_workspace/install/examples_rclpy_minimal_client:/home/bazookatooth/ROS2_WORK/example_ros2_workspace/install/examples_rclpy_minimal_action_server:/home/bazookatooth/ROS2_WORK/example_ros2_workspace/install/examples_rclpy_minimal_action_client:/home/bazookatooth/ROS2_WORK/example_ros2_workspace/install/examples_rclpy_executors:/opt/ros/eloquent /usr/bin/cmake /home/bazookatooth/ROS2_WORK/learning_how_to_workspace/src/numbers_fun -DCMAKE_INSTALL_PREFIX=/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/install/numbers_fun

@@ -1,0 +1,17 @@
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/install/numbers_fun/lib/numbers_fun/talker
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/install/numbers_fun/lib/numbers_fun/listener
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/install/numbers_fun/share/ament_index/resource_index/package_run_dependencies/numbers_fun
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/install/numbers_fun/share/ament_index/resource_index/parent_prefix_path/numbers_fun
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/install/numbers_fun/share/numbers_fun/environment/ament_prefix_path.sh
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/install/numbers_fun/share/numbers_fun/environment/ament_prefix_path.dsv
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/install/numbers_fun/share/numbers_fun/environment/path.sh
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/install/numbers_fun/share/numbers_fun/environment/path.dsv
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/install/numbers_fun/share/numbers_fun/local_setup.bash
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/install/numbers_fun/share/numbers_fun/local_setup.sh
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/install/numbers_fun/share/numbers_fun/local_setup.zsh
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/install/numbers_fun/share/numbers_fun/local_setup.dsv
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/install/numbers_fun/share/numbers_fun/package.dsv
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/install/numbers_fun/share/ament_index/resource_index/packages/numbers_fun
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/install/numbers_fun/share/numbers_fun/cmake/numbers_funConfig.cmake
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/install/numbers_fun/share/numbers_fun/cmake/numbers_funConfig-version.cmake
+/home/bazookatooth/ROS2_WORK/learning_how_to_workspace/install/numbers_fun/share/numbers_fun/package.xml

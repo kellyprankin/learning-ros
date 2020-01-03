@@ -1,0 +1,12 @@
+[0.357s] CMake Error at CMakeLists.txt:19 (add_executable):
+[0.362s]   The target name "talker," is reserved or not valid for certain CMake
+[0.362s]   features, such as generator expressions, and may result in undefined
+[0.362s]   behavior.
+[0.362s] 
+[0.362s] 
+[0.363s] CMake Error at /opt/ros/eloquent/share/ament_cmake_target_dependencies/cmake/ament_target_dependencies.cmake:35 (message):
+[0.363s]   ament_target_dependencies() the first argument must be a valid target name
+[0.363s] Call Stack (most recent call first):
+[0.363s]   CMakeLists.txt:20 (ament_target_dependencies)
+[0.363s] 
+[0.363s] 
